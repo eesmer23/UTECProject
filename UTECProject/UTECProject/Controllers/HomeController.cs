@@ -11,7 +11,7 @@ namespace UTECProject.Controllers
     {
         // GET: Home
         public ActionResult Index()
-        {
+        {//ddfd
             return View();
         }
 
